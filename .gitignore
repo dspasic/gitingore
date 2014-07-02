@@ -1,7 +1,7 @@
-# SublimeText project files
+# SublimeText #
 *.sublime-workspace
 
-# IntelliJ IDEA
+# IntelliJ IDEA #
 # http://www.jetbrains.com/pycharm/webhelp/project.html
 .idea/
 *.iml
@@ -21,8 +21,11 @@ lib_managed/
 src_managed/
 project/boot/
 
-# SVN
+# VCS #
 .svn/
+!.gitignore
+*~
+.ruby-version
 
 # Vim
 .*.sw[a-z]
@@ -30,8 +33,33 @@ project/boot/
 Session.vim
 .netrwhist
 
-!.gitignore
-*~
+# OS #
 .DS_Store
-.ruby-version
-logs
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases #
+*.log
+*.sqlite
+
+# Packages #
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Compiled Source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
