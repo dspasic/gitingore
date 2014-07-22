@@ -12,7 +12,7 @@ Clone the repository on you local workstation and create a softlink of the ingno
 > ln -s `pwd`/.gitignore ~/.gitignore_global
 ```
 
-Setting up gitingore
+Setting up
 --------------------
 
 How to create a local .gitignore read https://help.github.com/articles/ignoring-files#create-a-local-gitignore.
