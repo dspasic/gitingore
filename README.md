@@ -1,6 +1,6 @@
 Common Git Ignore Rules
 =========
-Some useful rules to ignore common files SCM repositories.
+Some useful rules to ignore common files in SCM repositories.
 
 Installation
 ------------
