@@ -16,7 +16,7 @@ the ignore file into your home directory.
 Setting up
 --------------------
 
-How to create a [local .gitignore][gitignoreglobal]. How to create a 
+How to create a [local .gitignore][gitignorelocal]. How to create a 
 [global .gitignore][gitignoreglobal].
 
 [gitingoreglobal]: https://help.github.com/articles/ignoring-files#create-a-global-gitignore
